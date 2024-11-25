@@ -1,6 +1,6 @@
 # Semi-Supervised Histopathology Image Segmentation with Feature Diversified Collaborative Learning
 
-![image](https://github.com/user-attachments/assets/1a263994-e0a0-406d-9d58-0534ec180fab)
+![image](images/pipeline.png)
 
 
 ## Overview
